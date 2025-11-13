@@ -1,4 +1,6 @@
-# Посмотри в окно (https://github.com/TKRepos/posmotri-v-okno-fd)
+https://github.com/TKRepos/posmotri-v-okno-fd
+
+# Посмотри в окно 
 
 Вторая практическая работа
 
