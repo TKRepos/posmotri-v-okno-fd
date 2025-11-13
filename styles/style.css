@@ -159,7 +159,8 @@ ol {
 }
 
 .button:active,
-.content__card-link:active {
+.content__card-link:active ,
+.content__list-item .content__card-link_current{
   background-color: #545050;
 }
 
@@ -247,7 +248,7 @@ ol {
   flex-direction: column;
   gap: 30px;
   height: 298px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .content__list {
@@ -285,6 +286,7 @@ ol {
   text-transform: uppercase;
   text-overflow: ellipsis;
   white-space: nowrap;
+  max-width: 196px;
 }
 
 .content__video-card-description {
