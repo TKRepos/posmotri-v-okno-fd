@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Посмотри в окно (https://github.com/TKRepos/posmotri-v-okno-fd)
+=======
+# Посмотри в окно
+>>>>>>> 519f0dcba890d02b71ad2f485ba9fee885f4df9f
 
 Вторая практическая работа
 
